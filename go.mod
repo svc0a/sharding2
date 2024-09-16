@@ -1,4 +1,4 @@
-module sharding2
+module github.com/svc0a/sharding2
 
 go 1.22.5
 
